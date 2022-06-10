@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+obj/
+webserv
+Socket.xcodeproj/project.xcworkspace/xcuserdata/simon.xcuserdatad/UserInterfaceState.xcuserstate
+UserInterfaceState.xcuserstate
+*.obj
+*.o
+**/*.xcuserstate
